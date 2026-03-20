@@ -18,6 +18,28 @@ The goal is to **enhance problem-solving skills**, **understand core concepts**,
 ## 💻 Language Used
 **Java** ☕
 
+
 ---
 
 ## 📂 Folder Structure
+Java-DSA/
+│── Arrays/
+│── Patterns/
+│── Sorting/
+│── Strings/
+
+
+---
+
+## 🎯 Goals
+- Strengthen DSA concepts  
+- Practice coding regularly  
+- Prepare for coding interviews  
+- Improve understanding of time & space complexity  
+
+---
+
+## ⚡ How to Use
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/java-dsa.git
